@@ -24,6 +24,8 @@ Réalisation :
 - Nombre de plaque à découper : 17
 
 Réglages laser :
+Epaisseur matière 3mm
+Réglage focale 13
 Vitesse 2500
 Intensité 40
 
