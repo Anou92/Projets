@@ -28,6 +28,7 @@ Epaisseur matière 3mm
 Réglage focale 13
 Vitesse 2500
 Intensité 40
+temps de découpe pour 80 pièces : 10 min
 
 
 
