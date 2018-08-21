@@ -31,6 +31,7 @@ Réglages laser :
 - Intensité 40
 - temps de découpe pour 80 pièces : 10 min
 
+640 pièces découpé en 80 min
 
 
 
