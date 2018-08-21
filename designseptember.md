@@ -23,6 +23,10 @@ Réalisation :
 - Distance de découpe par plaque : 17,5m
 - Nombre de plaque à découper : 17
 
+Réglages laser :
+Vitesse 2500
+Intensité 40
+
 
 
 
