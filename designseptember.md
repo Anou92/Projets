@@ -13,3 +13,10 @@ thermocollage
 
 Dimensions de la paroi :
 60 x 130 cm
+
+Réalisation :
+1300 Formes à découper  L 12 x l 3,5cm cm
+
+
+
+
