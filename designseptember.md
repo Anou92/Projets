@@ -24,11 +24,12 @@ Réalisation :
 - Nombre de plaque à découper : 17
 
 Réglages laser :
-Epaisseur matière 3mm
-Réglage focale 13
-Vitesse 2500
-Intensité 40
-temps de découpe pour 80 pièces : 10 min
+
+- Epaisseur matière 3mm
+- Réglage focale 13
+- Vitesse 2500
+- Intensité 40
+- temps de découpe pour 80 pièces : 10 min
 
 
 
